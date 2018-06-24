@@ -1,3 +1,6 @@
+https://img.shields.io/badge/liscense-MIT-green.svg?longCache=true&style=flat
+https://img.shields.io/badge/language-JavaScript-blue.svg?longCache=true&style=flat
+
 # fortniteTracker
 Fortnite Tier Tracker
 
