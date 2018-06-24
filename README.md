@@ -1,5 +1,5 @@
-[![license](https://img.shields.io/badge/license-MIT-green.svg?longCache=true&style=flat)
-[![language](https://img.shields.io/badge/language-JavaScript-blue.svg?longCache=true&style=flat)
+[![license](https://img.shields.io/badge/license-MIT-green.svg?longCache=true&style=flat)]
+[![language](https://img.shields.io/badge/language-JavaScript-blue.svg?longCache=true&style=flat)]
 
 # fortniteTracker
 Fortnite Tier Tracker
